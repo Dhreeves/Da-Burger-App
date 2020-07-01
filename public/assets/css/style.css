@@ -1,0 +1,37 @@
+.jumbotron {
+    background-image: url("/assets/img/pablo-merchan-montes-hyIE90CN6b0-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 10px;
+}
+
+.jumbotron > h1 {
+    font-family: 'Bungee Inline', cursive;
+}
+
+#newBurger {
+    border-radius: 7px;
+}
+
+#newColor {
+    color: #fff;
+}
+
+#leftHeader {
+    background-color: #f04815;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#rightHeader {
+    background-color: #eb9f3c;
+    color: white;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#eatButton, #trashButton {
+    float: right;
+}
