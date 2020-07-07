@@ -1,8 +1,9 @@
 .jumbotron {
-    background-image: url("/assets/img/pablo-merchan-montes-hyIE90CN6b0-unsplash.jpg");
+    background-image: url("/assets/img/sander-dalhuisen-nA6Xhnq2Od8-unsplash.jpg");
+   background-position-x: -300px;
     background-repeat: no-repeat;
     background-position: center;
-    background-size: cover;
+    background-size:100%;
     margin-top: 10px;
 }
 
@@ -12,6 +13,7 @@
 
 #newBurger {
     border-radius: 7px;
+   
 }
 
 #newColor {
@@ -23,13 +25,15 @@
     color: white;
     text-align: center;
     font-size: 1.2em;
+    margin-bottom: 15px;
 }
 
 #rightHeader {
-    background-color: #eb9f3c;
+    background-color: #f38e0a;
     color: white;
     text-align: center;
     font-size: 1.2em;
+    margin-bottom: 15px;
 }
 
 #eatButton, #trashButton {
