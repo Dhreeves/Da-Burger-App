@@ -4,7 +4,7 @@
   "description": "## Description This is a full-stack web application  made with node.js, express, MySQL; and Handlebars that allows a user to create a burger logger.",
   "main": "server.js",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^5.0.0",
     "mysql": "^2.18.1"
   },
